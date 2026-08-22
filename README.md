@@ -7,8 +7,8 @@ numpy
 openpyxl
 ## Installation
 ### Clone or download the repository
-python<br>git clone https://github.com/your-username/intelligent-ebook-evaluator.git
-cd intelligent-ebook-evaluator<br>
+`git clone https://github.com/your-username/intelligent-ebook-evaluator.git`
+`cd intelligent-ebook-evaluator`
 ### Install required Python packages
 `pip install pandas numpy openpyxl`
 ## Running the Evaluator
